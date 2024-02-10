@@ -1,12 +1,5 @@
-# test-assignments
-# test-assignments
-# test-assignments
-# test-assignments
-# test-assignments
-# test-assignments
-# test-assignments
-# test-assignments
-# test-assignments
-# test-assignments
-# test-assignments
-# test-assignments
+# test-assignment
+
+Simple vending machine program 
+
+Not completed 
